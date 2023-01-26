@@ -1,0 +1,20 @@
+.filtering-by-display {
+    color: rgb(102, 102, 102);
+    padding-top: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.user-filter-button-margin {
+    margin-left: 5px;
+}
+
+.user-list-paginate-margin {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.top-row-paginate {
+    text-align: center;
+    padding: 34px;
+}
